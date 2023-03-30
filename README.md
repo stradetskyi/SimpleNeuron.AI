@@ -5,9 +5,11 @@ Just a simple AI Neuron example
 It include Neuron class implementation with methods of Process Data and Train method that allow to train Neuron based on input and expected result info.
 
 # Examples
-It include 2 example how to train and use Neuron. 
-First one is convertation from the Miles to Kilometers and vice versa.
-Secound one is converation from USD to UAH and vice versa (based on today's goodle course).
+It include 2 example how to train and use Neuron:
+- First one is convertation from the Miles to Kilometers and vice versa.
+- Secound one is converation from USD to UAH and vice versa (based on today's goodle course).
+
+You can see them as public methods in ProgramHelper.cs
 
 # Note
 Key values we should look on is: 
